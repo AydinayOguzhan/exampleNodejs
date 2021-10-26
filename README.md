@@ -24,6 +24,9 @@ Development utilities:
 
 ```
 npm install
+ also 
+ nmp install mysql
+ npm install joi
 ```
 
 ## Lint
